@@ -1,2 +1,3 @@
-# blood-donation-
-blood donation website to see where how much of  blood they been donated and list of data who all are have been donated 
+The Blood Donation Project is a web-based system developed to help connect blood donors and people who need blood quickly and easily. The main aim of this project is to create a centralized platform where users can register as blood donors and patients or hospitals can search for available donors based on blood group and location.
+
+In this project, donors can register their details such as name, blood group, contact number, and availability. The system stores this information in a database and displays a list of available donors. Users who need blood can search for a specific blood group and contact the donor directly.
